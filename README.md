@@ -33,4 +33,4 @@
 1) EmailJS - send emails directly through JavaScript without any back end. - https://www.emailjs.com/
 2) ImageCompressor - to compress images for faster load - https://imagecompressor.com/
 3) CSS tricks - to learn and master CSS - https://css-tricks.com/
-4)and also StackOverflow.
+4) and also StackOverflow.
